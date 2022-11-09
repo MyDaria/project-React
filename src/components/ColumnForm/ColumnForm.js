@@ -4,7 +4,6 @@ import Button from '../Button/Button.js'
 
 const ColumnForm = props => {
 
-    //const [value, setValue] = useState('');
     const [title, setTitle] = useState('');
     const [icon, setIcon] = useState('');
 
